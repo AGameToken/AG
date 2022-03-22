@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f584a8-34f9-46c9-9c02-ea199327221b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ppt/AG plan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ppt/AG计划书.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="b1f584a8-34f9-46c9-9c02-ea199327221b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647963050748</updated>
-      <workItem from="1647963051848" duration="1061000" />
+      <workItem from="1647963051848" duration="1369000" />
     </task>
     <servers />
   </component>
