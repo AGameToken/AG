@@ -1,0 +1,30 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+data/elasticsearch/nodes/0/node.lock
+data/elasticsearch/nodes/0/_state/global-20.st
+data/elasticsearch/nodes/0/_state/global-3.st
+data/elasticsearch/nodes/0/*
+data/*
+.DS_Store
