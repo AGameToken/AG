@@ -25,12 +25,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ppt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/game/js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\AG\game\js" />
       <recent name="C:\Users\Administrator\IdeaProjects\AG\ppt" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -47,6 +48,7 @@
       <updated>1647963050748</updated>
       <workItem from="1647963051848" duration="3149000" />
       <workItem from="1647966384227" duration="2947000" />
+      <workItem from="1648024224765" duration="181000" />
     </task>
     <servers />
   </component>
